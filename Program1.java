@@ -5,6 +5,6 @@ public class  Program1{
         c = b;
         b = a;
         a = c;
-        System.out.println("a = "+a+"\t"+"b = "+b);
+        System.out.println("a = "+a+"\t");
     }
 }
